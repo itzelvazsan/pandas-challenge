@@ -11,7 +11,7 @@ This project is part of the Data Analysis and Visualization Bootcamp from Tecnol
 
 ## Table of contents :point_right:
 
-On the repository you'll find:
+On the repository you'll find a folder named PyCitySchools, which contains:
 
 | Item  |   File Type          |         File Name              |           Description                                                            |
 | ----- | -------------------  | ------------------------------ | -------------------------------------------------------------------------------  |
